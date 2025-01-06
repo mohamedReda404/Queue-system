@@ -46,11 +46,18 @@ The person in charge of the hospital adjusts the program according to the number
 The program has the capacity to accommodate a maximum of 200 doctors</h2>
    <img width=100% src="quue_system 06_01_2025 08_51_51 م.png" alt="logo"></a>
  
-  
-   <img width=100% src="screenshots/2.PNG" alt="logo"></a>
+ <p>To modify the color of the button for each doctor, as well as his name, and also hide the button for this doctor</p>
+   <img width=100% src="quue_system 06_01_2025 08_53_18 م.png" alt="logo"></a>
    <hr>
-   <img width=100% src="screenshots/3.PNG" alt="logo"></a>
-   <img width=100% src="screenshots/4.PNG" alt="logo"></a>
+   <p>When you hide the doctor's button, the patient cannot request this doctor 
+The doctor can press the wait button on his control panel for it to appear in this form to the patient</p>
+   <img width=100% src="quue_system 06_01_2025 09_51_14 م.png" alt="logo"></a>
+   <hr>
+   <hr>
+   <h2>###How the entire system works and how does the program communicate with the doctors’ control panel</h2>
+   <p>**An external view of the project</p>
+   <img width=100% src="queue-2.webp" alt="logo"></a>
+   <p></p>
    <hr>
    <img width=100% src="screenshots/5.PNG" alt="logo"></a>
    <hr>
