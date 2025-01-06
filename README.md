@@ -2,7 +2,7 @@
 
 <div align="center">
   
- <img width=50% src="Automatic-Weather-Station-for-Agriculture-Argo-AWS-2.jpg" alt="logo"></a>
+ <img width=100% src="Automatic-Weather-Station-for-Agriculture-Argo-AWS-2.jpg" alt="logo"></a>
 
 </div>
 
@@ -45,8 +45,8 @@ Where the system works as follows:
   <h2>1-Log in to edit 
 The person in charge of the hospital adjusts the program according to the number of doctors present and also changes the color and identifies the names of the doctors 
 The program has the capacity to accommodate a maximum of 200 doctors</h2>
-   <img width=50% src="quue_system 06_01_2025 08_35_11 م.png" alt="logo"></a><br>
-   <img width=50% src="quue_system 06_01_2025 08_51_51 م.png" alt="logo"></a>
+   <img width=100% src="quue_system 06_01_2025 08_35_11 م.png" alt="logo"></a><br>
+   <img width=100% src="quue_system 06_01_2025 08_51_51 م.png" alt="logo"></a>
  
  <p>To modify the color of the button for each doctor, as well as his name, and also hide the button for this doctor</p>
    <img width=100% src="quue_system 06_01_2025 08_53_18 م.png" alt="logo"></a>
@@ -67,9 +67,9 @@ The doctor presses a button called (next), and the headphone speaks the patient�
    <hr>
    <hr>
    <h2 name="database">###The relationship in the database</h2>
-   <img width=50% src="‪Editing Queue-system_README.md at main · mohamedReda404_Queue-system - Google Chrome‬ 06_01_2025 10_18_35 م.png" alt="logo"></a>
+   <img width=100% src="‪Editing Queue-system_README.md at main · mohamedReda404_Queue-system - Google Chrome‬ 06_01_2025 10_18_35 م.png" alt="logo"></a>
    <br>
-   <img width=50% src="Untitled.png" alt="logo"></a>
+   <img width=100% src="Untitled.png" alt="logo"></a>
 
 <p>**As we can see above, I have 200 tables in the project database 
 All of them have a relationship with the main table 
