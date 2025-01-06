@@ -39,7 +39,14 @@ Where the system works as follows:
 ## 📷 Screenshots 
 
 <div name="Screenshots" align="center">
-   <img width=100% src="screenshots/1.PNG" alt="logo"></a>
+  <h2>### First, explain how to configure the program </h2>
+<p>Note: This is the program found on the patient’s service request device</p>
+  <h2>1-Log in to edit 
+The person in charge of the hospital adjusts the program according to the number of doctors present and also changes the color and identifies the names of the doctors 
+The program has the capacity to accommodate a maximum of 200 doctors</h2>
+   <img width=100% src="quue_system 06_01_2025 08_51_51 م.png" alt="logo"></a>
+ 
+  
    <img width=100% src="screenshots/2.PNG" alt="logo"></a>
    <hr>
    <img width=100% src="screenshots/3.PNG" alt="logo"></a>
