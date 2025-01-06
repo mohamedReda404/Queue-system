@@ -57,26 +57,25 @@ The doctor can press the wait button on his control panel for it to appear in th
    <h2>###How the entire system works and how does the program communicate with the doctors’ control panel</h2>
    <p>**An external view of the project</p>
    <img width=100% src="queue-2.webp" alt="logo"></a>
-   <p></p>
+    <img width=100% src="H8a69b3e503f94687976cb3cf48a5662c5.avif" alt="logo"></a>
+   <p>How much do we see above? 
+The main device (the device that the patient orders from)
+When the patient makes the request, it appears with the doctor on his control panel, which is called in the picture (pad).
+The doctor presses a button called (next), and the headphone speaks the patient’s number, so the patient goes to the specified room.</p>
    <hr>
-   <img width=100% src="screenshots/5.PNG" alt="logo"></a>
    <hr>
-   <img width=100% src="screenshots/6.PNG" alt="logo"></a>
+   <h2>###The relationship in the database</h2>
+   <img width=50% src="‪Editing Queue-system_README.md at main · mohamedReda404_Queue-system - Google Chrome‬ 06_01_2025 10_18_35 م.png" alt="logo"></a>
+   <img width=50% src="Untitled.png" alt="logo"></a>
+
+<p>**As we can see above, I have 200 tables in the project database 
+All of them have a relationship with the main table 
+Each table represents a doctor in the GUI, and each doctor represents a button 
+The patient orders through it</p>
+
    <hr>
-   <img width=100% src="screenshots/7.PNG" alt="logo"></a>
-   <img width=100% src="screenshots/16.PNG" alt="logo"></a>
    <hr>
-   <img width=100% src="screenshots/8.PNG" alt="logo"></a>
-   <hr>
-   <img width=100% src="screenshots/9.PNG" alt="logo"></a>
-   <img width=100% src="screenshots/10.PNG" alt="logo"></a>
-   <hr>
-   <img width=100% src="screenshots/11.PNG" alt="logo"></a>
-   <hr>
-   <img width=100% src="screenshots/12.PNG" alt="logo"></a>
-   <img width=100% src="screenshots/13.PNG" alt="logo"></a>
-   <img width=100% src="screenshots/14.PNG" alt="logo"></a>
-   <img width=100% src="screenshots/15.PNG" alt="logo"></a>
+  
    
 </div>
 
