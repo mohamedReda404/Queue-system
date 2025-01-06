@@ -12,6 +12,7 @@
 - [About](#about)
 - [Technology](#tech)
 - [Screenshots](#Screenshots)
+  <hr>
 -[relationship in the database](#database)
 
 ## 📙 About <a name = "about"></a>
