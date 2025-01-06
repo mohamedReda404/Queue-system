@@ -16,7 +16,7 @@
 
 ## 📙 About <a name = "about"></a>
 <h1>Windows form APP c# project</h1>
- <img width=50% src="v-6.jpg" alt="logo"></a>
+ <img width=100% src="v-6.jpg" alt="logo"></a>
 <P>It is a queue system and this system is used to organize the entry of customers to facilitate services within hospitals and facilitate patients
 
 Where the system works as follows:
