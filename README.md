@@ -12,8 +12,8 @@
 - [About](#about)
 - [Technology](#tech)
 - [Screenshots](#Screenshots)
-<br>
 -[relationship in the database](#database)
+
 ## 📙 About <a name = "about"></a>
 <h1>Windows form APP c# project</h1>
  <img width=50% src="v-6.jpg" alt="logo"></a>
